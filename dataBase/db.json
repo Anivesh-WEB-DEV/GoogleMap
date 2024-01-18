@@ -1,0 +1,104 @@
+{
+  "addresses": [
+    {
+      "id": 1,
+      "name": "India Gate New Delhi",
+      "position": { "lat": 28.61277777777778, "lng": 77.22916666666667 }
+    },
+    {
+      "id": 2,
+      "name": "Sukhna Lake Chandigarh",
+      "position": { "lat": 30.733314, "lng": 76.779417 }
+    },
+    {
+      "id": 3,
+      "name": "Dehradun",
+      "position": { "lat": 30.202193, "lng": 78.265884 }
+    },
+    {
+      "id": 4,
+      "name": "Amritsar",
+      "position": { "lat": 31.104830, "lng": 77.173393 }
+    },
+    {
+      "id": 5,
+      "name": "Shimla",
+      "position": { "lat": 31.147132, "lng": 77.576077 }
+    },
+    {
+      "id": 6,
+      "name": "Ludhiana",
+      "position": { "lat": 30.674230, "lng": 76.710450 }
+    },
+    {
+      "id": 7,
+      "name": "Haridwar",
+      "position": { "lat": 29.959461, "lng": 78.058162 }
+    },
+    {
+      "id": 8,
+      "name": "Jalandhar",
+      "position": { "lat": 31.263580, "lng": 77.696778 }
+    },
+    {
+      "id": 9,
+      "name": "Nainital",
+      "position": { "lat": 29.058775, "lng": 76.085601 }
+    },
+    {
+      "id": 10,
+      "name": "Chamba",
+      "position": { "lat": 30.827862, "lng": 76.710450 }
+    },
+    {
+      "id": 11,
+      "name": "Manali",
+      "position": { "lat": 30.894049, "lng": 76.717872 }
+    },
+    {
+      "id": 12,
+      "name": "Shillai",
+      "position": { "lat": 29.685692, "lng": 76.990290 }
+    },
+    {
+      "id": 13,
+      "name": "Dalhousie",
+      "position": { "lat": 31.703863, "lng": 76.530084 }
+    },
+    {
+      "id": 14,
+      "name": "Rishikesh",
+      "position": { "lat": 30.223877, "lng": 78.159206 }
+    },
+    {
+      "id": 15,
+      "name": "Dharamshala",
+      "position": { "lat": 30.341798, "lng": 78.058162 }
+    },
+    {
+      "id": 16,
+      "name": "Mandi",
+      "position": { "lat": 29.450694, "lng": 76.772670 }
+    },
+    {
+      "id": 17,
+      "name": "Kullu",
+      "position": { "lat": 30.179756, "lng": 76.659524 }
+    },
+    {
+      "id": 18,
+      "name": "Kangra",
+      "position": { "lat": 31.338754, "lng": 76.655620 }
+    },
+    {
+      "id": 19,
+      "name": "Palampur",
+      "position": { "lat": 30.413772, "lng": 77.850517 }
+    },
+    {
+      "id": 20,
+      "name": "Solan",
+      "position": { "lat": 30.718273, "lng": 76.799356 }
+    }
+  ]
+}
