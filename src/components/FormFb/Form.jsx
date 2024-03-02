@@ -25,7 +25,7 @@
 
 //   const { isLoaded, loadError } = useJsApiLoader({
 //     id: "google-map-script",
-//     googleMapsApiKey: "AIzaSyDNEDOcsDRacIYtmMG_PuCE0-9bPckqigY",
+//     googleMapsApiKey: "",
 //     libraries: ["places"],
 //   });
 
